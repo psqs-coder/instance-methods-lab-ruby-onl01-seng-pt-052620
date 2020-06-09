@@ -5,7 +5,7 @@ class Dog
 end
 
 class Dog
-  def split
+  def sit
     puts "The Dog is sitting"
   end
 end
